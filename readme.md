@@ -7,35 +7,7 @@ Here are the request methods:
 `/pets` - GET
 - Returns a list of the dogs
 
-`/baskets/:id` - GET
-- Returns a single basket by its id
-- example response from `/baskets/2`:
-```
-    {
-            "id": "2",
-            "name": "Vegetable Basket",
-            "contents": [
-                "carrot",
-                "broccoli",
-                "spinach"
-            ],
-            "priceInDollars": 15.99
-    }
-```
+* I havent made the function to select individual dogs yet
 
-`/baskets` - POST
-- Accepts a `basket` object
-- example object:
-
-```
-{
-        "id": "2",
-        "name": "Vegetable Basket",
-        "contents": [
-            "carrot",
-            "broccoli",
-            "spinach"
-        ],
-        "priceInDollars": 15.99
-    }
-```
+`/company` - POST
+- Returns a list of the companies that sell dogs and their email address
