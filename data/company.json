@@ -1,0 +1,27 @@
+[
+	{   
+        "id": 1,
+		"company": "Pet Est Corp.",
+		"email": "pet.cor@icloud.com"
+	},
+	{   
+        "id": 2,
+		"company": "Dog Pound Consulting",
+		"email": "molestie.pharetra@hotmail.org"
+	},
+	{   
+        "id": 3,
+		"company": "Canine Institute",
+		"email": "canine.inst@outlook.net"
+	},
+	{   
+        "id": 4,
+		"company": "Bow Wow Inc.",
+		"email": "bow@google.org"
+	},
+	{   
+        "id": 5,
+		"company": "Neque Corporation",
+		"email": "eu.neque@yahoo.couk"
+	}
+]

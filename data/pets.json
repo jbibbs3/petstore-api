@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "breed": "Pit Bull",
+        "birthdate": "Jun 29, 2023"
+    },
+    {
+        "id": 2,
+        "breed": "St. Bernard",
+        "birthdate": "Jan 11, 2022"
+    },
+    {
+        "id": 3,
+        "breed": "Greyhound",
+        "birthdate": "Jun 2, 2022"
+    },
+    {
+        "id": 4,
+        "breed": "Poodle",
+        "birthdate": "Mar 8, 2023"
+    },
+    {
+        "id": 5,
+        "breed": "Boxer",
+        "birthdate": "Jan 21, 2023"
+    },
+    {
+        "id": 6,
+        "breed": "Golden Retriever",
+        "birthdate": "May 5, 2023"
+    },
+    {
+        "id": 7,
+        "breed": "Daschund",
+        "birthdate": "May 12, 2023"
+    },
+    {
+        "id": 8,
+        "breed": "weiner dog",
+        "birthdate": "May 12, 2024"
+    }
+]
